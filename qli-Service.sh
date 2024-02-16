@@ -1,4 +1,4 @@
 ﻿#!/bin/bash
 
-cd /cpu
-/cpu/qli-Client -service
+cd /gpu
+/gpu/qli-Client -service
